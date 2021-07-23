@@ -29,4 +29,4 @@ function shuffle(final) {
 }
 //La fontion "shuffle" nous permet de melanger la chaîne de caractère
 mdp = shuffle(mdp);
-(mdp.length === 8) ? console.log(mdp.join("")) : console.log("8 caractères et c'est tout !
+(mdp.length === 8) ? console.log(mdp.join("")) : console.log("8 caractères et c'est tout !");
